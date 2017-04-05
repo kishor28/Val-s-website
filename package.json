@@ -1,0 +1,22 @@
+{
+  "name": "demodegroup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icarusoncloud9/Val-s-website.git"
+  },
+  "author": "Joaquin Melara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Icarusoncloud9/Val-s-website/issues"
+  },
+  "homepage": "https://github.com/Icarusoncloud9/Val-s-website#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
